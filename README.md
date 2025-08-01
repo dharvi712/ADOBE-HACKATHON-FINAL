@@ -1,5 +1,5 @@
- Adobe India Hackathon 2025 - Challenge 1A
-## Advanced PDF Outline Extractor
+## Adobe India Hackathon 2025 - Challenge 1A
+# Advanced PDF Outline Extractor
 
 ### Team Information
 - **Solution Name:** HybridIntelligence PDF Extractor
